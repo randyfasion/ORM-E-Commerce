@@ -8,12 +8,12 @@ My task was to build the back end for an e-commerce site by modifying starter co
 
 Because this application isnt be deployed, I provided a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. 
 
-<a href="https://youtu.be/P5-nPknSGGw" >Video<a>
+<a href="https://youtu.be/A46FwMLSeFo" >Video<a>
 
 
 Link to GitHub Repository:
 
-<a href="https://github.com/randyfasion/Employee-Tracker" >GitHub<a>
+<a href="https://github.com/randyfasion/ORM-E-Commerce" >GitHub<a>
 
 
 ## User Story
